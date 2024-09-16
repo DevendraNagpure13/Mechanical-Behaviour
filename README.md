@@ -1,6 +1,5 @@
 # Mechanical-Behaviour
 1. The Schmid factor is a concept from materials science and mechanical engineering that describes how stress applied to a crystal is resolved into shear stress along a particular slip system. The Schmid factor is crucial in understanding plastic deformation in crystalline materials, as it helps determine the ease with which a crystal will begin to deform.
-Key Points of Schmid Factor:
 
     Slip System: A slip system in a crystal consists of a specific slip plane and slip direction. The slip plane is the crystallographic plane where dislocations move most easily, and the slip direction is the direction in which atoms are displaced.
 
