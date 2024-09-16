@@ -7,7 +7,7 @@
 
     Formula: The Schmid factor (m) is given by the equation:
     m=cos⁡(ϕ)⋅cos⁡(λ)
-    m=cos(ϕ)⋅cos(λ)
+
 
     where:
         ϕ is the angle between the applied force direction and the slip direction,
