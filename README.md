@@ -15,7 +15,7 @@
 
     Critical Resolved Shear Stress (CRSS): Deformation begins when the resolved shear stress on a slip system reaches a critical value known as the critical resolved shear stress (CRSS). The Schmid law expresses the relationship as:
     τ=σ⋅m
-    τ=σ⋅m
+
 
     where τ is the resolved shear stress, σσ is the applied normal stress, and m is the Schmid factor.
 
